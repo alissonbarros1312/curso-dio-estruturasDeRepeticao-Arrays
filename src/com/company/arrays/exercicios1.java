@@ -3,6 +3,7 @@ package com.company.arrays;
 import java.util.Arrays;
 
 public class exercicios1 {
+
     public static void main(String[] args) {
 
         int[] numeros = {76, 21, -9, 45, 8, 18};
